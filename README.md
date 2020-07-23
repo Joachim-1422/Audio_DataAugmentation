@@ -1,4 +1,4 @@
-# Audio_DataAugmentation
+# Audio DataAugmentation for deepLearning
 Augmentation for audio data in speech emotion recgnition
 
 **Find the full project on GitLab : https://gitlab.com/Ordrix0/acproject **
